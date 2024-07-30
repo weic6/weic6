@@ -16,6 +16,8 @@
 
 ![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weic6&count_private=true&show_icons=true&theme=tokyonight)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/smellycatcat?ext=heatmap&site=cn)
+
 
 <!--others: 贪吃蛇、leetcode提交动态-->
 

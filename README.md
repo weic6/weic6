@@ -1,15 +1,3 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on networking project.
-- 📫 How to reach me: wei.rarr@gmail.com
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: wei.rarr@gmail.com
--->
-
-
 ## My stats
 <!--Ref: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weic6&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)](https://github.com/weic6/github-readme-stats)
